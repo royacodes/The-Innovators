@@ -51,7 +51,7 @@
 | فصل | عنوان | وضعیت |
 |-----|--------|--------|
 | Illustrated Timeline | سیر زمانی مصور | ⬜ در انتظار ترجمه |
-| Introduction | مقدمه | ⬜ در انتظار ترجمه |
+| Introduction | [مقدمه](01-introduction/introduction.md) | ⬜ در انتظار ترجمه  |
 | Chapter 1 | Ada, Countess of Lovelace | ⬜ در انتظار ترجمه |
 | Chapter 2 | The Computer | ⬜ در انتظار ترجمه |
 | Chapter 3 | Programming | ⬜ در انتظار ترجمه |
