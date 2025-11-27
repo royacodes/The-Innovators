@@ -50,7 +50,7 @@
 
 | فصل | عنوان |
 |-----|--------|
-| Illustrated Timeline | [سیر زمانی مصور](01-introduction/introduction.md) |
+| Illustrated Timeline | [سیر زمانی مصور](TIMELINE.md) |
 | Introduction | [مقدمه](01-introduction/introduction.md) | 
 | Chapter 1 | Ada, Countess of Lovelace | 
 | Chapter 2 | The Computer | 
