@@ -48,21 +48,21 @@
 
 ## 📑 فهرست فصل‌ها و وضعیت ترجمه
 
-| فصل | عنوان | وضعیت |
-|-----|--------|--------|
-| Illustrated Timeline | سیر زمانی مصور | ⬜ در انتظار ترجمه |
-| Introduction | [مقدمه](01-introduction/introduction.md) | ⬜ در انتظار ترجمه  |
-| Chapter 1 | Ada, Countess of Lovelace | ⬜ در انتظار ترجمه |
-| Chapter 2 | The Computer | ⬜ در انتظار ترجمه |
-| Chapter 3 | Programming | ⬜ در انتظار ترجمه |
-| Chapter 4 | The Transistor | ⬜ در انتظار ترجمه |
-| Chapter 5 | The Microchip | ⬜ در انتظار ترجمه |
-| Chapter 6 | Video Games | ⬜ در انتظار ترجمه |
-| Chapter 7 | The Internet | ⬜ در انتظار ترجمه |
-| Chapter 8 | The Personal Computer | ⬜ در انتظار ترجمه |
-| Chapter 9 | Software | ⬜ در انتظار ترجمه |
-| Chapter 10 | Online | ⬜ در انتظار ترجمه |
-| Chapter 11 | The Web | ⬜ در انتظار ترجمه |
-| Chapter 12 | Ada Forever | ⬜ در انتظار ترجمه |
-| Extra | Acknowledgments, Notes, Index | ⬜ در انتظار ترجمه |
+| فصل | عنوان |
+|-----|--------|
+| Illustrated Timeline | [سیر زمانی مصور](01-introduction/introduction.md) |
+| Introduction | [مقدمه](01-introduction/introduction.md) | 
+| Chapter 1 | Ada, Countess of Lovelace | 
+| Chapter 2 | The Computer | 
+| Chapter 3 | Programming | 
+| Chapter 4 | The Transistor | 
+| Chapter 5 | The Microchip |
+| Chapter 6 | Video Games | 
+| Chapter 7 | The Internet |
+| Chapter 8 | The Personal Computer |
+| Chapter 9 | Software |
+| Chapter 10 | Online | 
+| Chapter 11 | The Web | 
+| Chapter 12 | Ada Forever |
+| Extra | Acknowledgments, Notes, Index |
 
