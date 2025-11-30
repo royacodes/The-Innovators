@@ -51,7 +51,7 @@
 | فصل | عنوان |
 |-----|--------|
 | Illustrated Timeline | [سیر تحول دیجیتال](TIMELINE.md) |
-| Introduction | [مقدمه](01-introduction/introduction.md) | 
+| Introduction | [مقدمه](00-introduction/introduction.md) | 
 | Chapter 1 | Ada, Countess of Lovelace | 
 | Chapter 2 | The Computer | 
 | Chapter 3 | Programming | 
